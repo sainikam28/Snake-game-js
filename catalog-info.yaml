@@ -15,7 +15,7 @@ metadata:
       icon: link
 spec:
   type: service
-  lifecycle: production
+  lifecycle: development
   owner: team-a
   providesApis:
     - user-api
