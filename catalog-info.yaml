@@ -8,6 +8,7 @@ metadata:
   annotations:
     github.com/project-slug: my-org/my-repo
     backstage.io/techdocs-ref: url:https://docs.example.com/my-service
+    custom.test:"true"
   links:
     - url: https://my-service.example.com
       title: Live Service
