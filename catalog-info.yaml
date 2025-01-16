@@ -8,8 +8,8 @@ metadata:
   annotations:
     github.com/project-slug: my-org/my-repo
     backstage.io/techdocs-ref: "url:https://docs.example.com/my-service" 
-    custom.reposecretes: "true"
-    custom.baseImageScans: "false"
+    measure.reposecretes: "true"
+    measure.baseImageScans: "false"
   links:
     - url: https://my-service.example.com
       title: Live Service
