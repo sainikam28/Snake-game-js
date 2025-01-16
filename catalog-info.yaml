@@ -4,8 +4,8 @@ metadata:
   name: sanke-game-js
   description: A service that provides an API for managing users.
   tags:
-    - user-management
-    - backend
+    - Devlopment-Inprogress
+    - CAPI
   annotations:
     github.com/project-slug: my-org/my-repo
     backstage.io/techdocs-ref: url:https://docs.example.com/my-service
@@ -17,7 +17,3 @@ spec:
   type: service
   lifecycle: development
   owner: team-a
-  providesApis:
-    - user-api
-  consumesApis:
-    - auth-api
