@@ -10,6 +10,7 @@ metadata:
     backstage.io/techdocs-ref: "url:https://docs.example.com/my-service" 
     custom.reposecretes: "Masterful"
     custom.baseImageScans: "Certified"
+    custom.componentLibraries: "Opportunity for Improvement"
   links:
     - url: https://my-service.example.com
       title: Live Service
