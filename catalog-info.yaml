@@ -4,8 +4,7 @@ metadata:
   name: sanke-game-js
   description: A service that provides an API for managing users.
   tags:
-    - DevInprogress
-    - CAPI
+    - javascript
   annotations:
     github.com/project-slug: my-org/my-repo
     backstage.io/techdocs-ref: url:https://docs.example.com/my-service
